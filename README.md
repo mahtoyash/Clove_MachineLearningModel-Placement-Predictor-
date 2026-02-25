@@ -25,6 +25,8 @@
 - Loaded the dataset using pandas
 - Removed the unnecessary index column
 - Plotted a scatter plot of CGPA vs IQ to visually see the data split
+- Yellow: Placement is done(1)
+- Purple: Placement is not done (0)
 
   ![Scatter Plot - CGPA vs IQ](img_cell8.png)
 
